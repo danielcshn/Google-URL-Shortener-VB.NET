@@ -95,6 +95,7 @@ Partial Class Form1
         '
         'CaptureLink
         '
+        Me.CaptureLink.Interval = 1
         '
         'Form1
         '

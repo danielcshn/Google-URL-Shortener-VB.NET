@@ -16,6 +16,8 @@ Public Class Form1
 
     Private Const key As String = "<API-GOOGLE>"
 
+    Dim lastKey As String = ""
+
     Public Shared Function Shorten(url As String) As String
         Dim post As String = (Convert.ToString("{""longUrl"": """) & url) + """}"
         Dim shortUrl As String = url
@@ -47,6 +49,7 @@ Public Class Form1
             System.Diagnostics.Debug.WriteLine(ex.Message)
             System.Diagnostics.Debug.WriteLine(ex.StackTrace)
         End Try
+        Form1.lastKey = shortUrl
         Return shortUrl
     End Function
 
@@ -81,7 +84,7 @@ Public Class Form1
 
     Public Sub autoClipBoardText()
         Dim Cliptxt As String = My.Computer.Clipboard.GetText()
-        If Cliptxt.Contains("http") Then
+        If (Cliptxt.Contains("http") And Me.lastKey IsNot Cliptxt) Then
             txtURL.Text = Clipboard.GetText()
         End If
     End Sub

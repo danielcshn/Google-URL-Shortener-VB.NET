@@ -13,3 +13,14 @@ H:\2017\Google URL Shortener\Google URL Shortener\bin\Debug\Google URL Shortener
 H:\2017\Google URL Shortener\Google URL Shortener\obj\Debug\Google URL Shortener.exe
 H:\2017\Google URL Shortener\Google URL Shortener\obj\Debug\Google URL Shortener.xml
 H:\2017\Google URL Shortener\Google URL Shortener\obj\Debug\Google URL Shortener.pdb
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\bin\Debug\Google URL Shortener.exe.config
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\obj\Debug\Google URL Shortener.exe
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\obj\Debug\Google URL Shortener.xml
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\obj\Debug\Google URL Shortener.pdb
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\bin\Debug\Google URL Shortener.exe
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\bin\Debug\Google URL Shortener.pdb
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\bin\Debug\Google URL Shortener.xml
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\obj\Debug\Google URL Shortener.vbprojResolveAssemblyReference.cache
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\obj\Debug\Google_URL_Shortener.Form1.resources
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\obj\Debug\Google_URL_Shortener.Resources.resources
+C:\Users\Samsung\Google-URL-Shortener-VB.NET\Google URL Shortener\obj\Debug\Google URL Shortener.vbproj.GenerateResource.Cache
