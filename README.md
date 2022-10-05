@@ -1,3 +1,6 @@
+
+`April 13, 2018: Google URL Shortener is deprecated.`
+
 Google-URL-Shortener-VB.NET
 ======
 
